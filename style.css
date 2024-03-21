@@ -31,7 +31,8 @@ body {
     height: 100px;
     background-color: blue;
 }
-.google-logo::after{
+
+.google-logo::after {
     content: "";
     position: absolute;
     top: -100px;
